@@ -26,6 +26,8 @@ This repository contains several walkthroughs of rooms, originating from various
       - Devvortex, a seasonal machine on hack the box released on November 25, 2023. The machine is based on linux operating system and runs a Joomla web application.
     - [Codify](/HackTheBox/Easy/Codify/Readme.md)
       - Codify offered extensive learning on sandbox escape, password cracking, script analysis, and privilege escalation. It involved exploiting a NodeJS code runner for initial access and leveraging enumeration to escalate privileges from 'svc' to 'joshua.' Root access was gained through a vulnerable MySQL backup script with weak password comparison logic. Codify underscores the importance of a diverse skill set across web apps, databases, scripts, authentication, and system administration. Successful hacking in Codify requires thorough enumeration, lateral thinking, and the use of multiple techniques.
+    - [Analytics](/HackTheBox/Easy/Analytics/Readme.md)
+      - Analytics is a machine on hack the box released on November 25, 2023. The machine is based on linux operating system and runs a Metabase web application.
   - **Medium**
     - Ongoing
   - **Hard**

@@ -28,6 +28,8 @@ This repository contains several walkthroughs of rooms, originating from various
       - Codify offered extensive learning on sandbox escape, password cracking, script analysis, and privilege escalation. It involved exploiting a NodeJS code runner for initial access and leveraging enumeration to escalate privileges from 'svc' to 'joshua.' Root access was gained through a vulnerable MySQL backup script with weak password comparison logic. Codify underscores the importance of a diverse skill set across web apps, databases, scripts, authentication, and system administration. Successful hacking in Codify requires thorough enumeration, lateral thinking, and the use of multiple techniques.
     - [Analytics](/HackTheBox/Easy/Analytics/Readme.md)
       - Analytics is a machine on hack the box released on November 25, 2023. The machine is based on linux operating system and runs a Metabase web application.
+    - [CozyHosting](/HackTheBox/Easy/CozyHosting/Readme.md)
+      - This is an easy machine with a strong focus on web application security vulnerabilities which enables us to get reverse shell of the machine.
   - **Medium**
     - Ongoing
   - **Hard**

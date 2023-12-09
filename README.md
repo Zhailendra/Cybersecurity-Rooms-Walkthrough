@@ -12,7 +12,8 @@ This repository contains several walkthroughs of rooms, originating from various
 
 - [![TryHackMe](/assets/THMlogo.png)](https://tryhackme.com/)
   - **Easy**
-    - Ongoing
+    - [Simple CTF](/TryHackMe/Easy/SimpleCTF/Readme.md)
+      - A beginner-level CTF that showcases a few of the necessary skills needed for all CTFs to include scanning and enumeration, research, exploitation, and privilege escalation.
   - **Medium**
     - Ongoing
   - **Hard**

@@ -31,6 +31,8 @@ This repository contains several walkthroughs of rooms, originating from various
       - Analytics is a machine on hack the box released on November 25, 2023. The machine is based on linux operating system and runs a Metabase web application.
     - [CozyHosting](/HackTheBox/Easy/CozyHosting/Readme.md)
       - This is an easy machine with a strong focus on web application security vulnerabilities which enables us to get reverse shell of the machine.
+    - [Keeper](/HackTheBox/Easy/Keeper/Readme.md)
+      - Keeper is an Easy machine which focuses on exploiting vulnerabilities in the KeePass password manager.
   - **Medium**
     - Ongoing
   - **Hard**

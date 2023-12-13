@@ -14,6 +14,8 @@ This repository contains several walkthroughs of rooms, originating from various
   - **Easy**
     - [Simple CTF](/TryHackMe/Easy/SimpleCTF/Readme.md)
       - A beginner-level CTF that showcases a few of the necessary skills needed for all CTFs to include scanning and enumeration, research, exploitation, and privilege escalation.
+    - [RootMe](/TryHackMe/Easy/RootMe/Readme.md)
+      - RootMe features some guidance that help make the room friendly to beginners. The overall flow is great and I definitely recommend trying it without using the provided guidance as much as possible – it doesn’t have any ‘weirdness’ that a regular CTF player wouldn’t expect.
   - **Medium**
     - Ongoing
   - **Hard**
